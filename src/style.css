@@ -1,0 +1,19 @@
+body {
+  background: url(./assets/background.jpg);
+  height: 90vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #47474d;
+  font-family: 'Varela Round', sans-serif;
+}
+
+#city-label {
+  font-weight: bold;
+}
+
+#weather-list {
+  margin-top: 10px;
+  padding-left: 0;
+  list-style-type: none;
+}

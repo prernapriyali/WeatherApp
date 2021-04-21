@@ -1,0 +1,28 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "As part of Microverse curriculum",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiiazalyDzhumaliev/weatherApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiiazalyDzhumaliev/weatherApp/issues"
+  },
+  "homepage": "https://github.com/NiiazalyDzhumaliev/weatherApp#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.0",
+    "file-loader": "^6.1.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  }
+}
