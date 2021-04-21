@@ -9,7 +9,7 @@ Additional description about the project and its features.
 
 ## Live Version
 
-[Live Weather APP]()
+[Live Weather APP](https://prernapriyali.github.io/WeatherApp/)
 
 ## Built With
 
@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 
 ```
-- git clone ;
+- git clone https://github.com/prernapriyali/WeatherApp.git ;
 - cd WeatherApp/
 - npm install
 - npm webpack --watch
@@ -45,13 +45,16 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤
+👤 **Prerna Priyali**
+
+- Github: [@prernapriyali](https://github.com/prernapriyali)
+- Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/prernapriyali/WeatherApp/issues).
 
 ## Show your support
 
