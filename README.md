@@ -9,7 +9,7 @@ Additional description about the project and its features.
 
 ## Live Version
 
-[Live Weather APP](https://prernapriyali.github.io/WeatherApp/)
+[Live Weather APP](https://rawcdn.githack.com/NiiazalyDzhumaliev/weatherApp/2b17860b31bd2f2187bc9698f60bdcefecec23a8/dist/index.html)
 
 ## Built With
 
