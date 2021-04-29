@@ -16,7 +16,6 @@ Additional description about the project and its features.
 - HTML,
 - CSS,
 - JavaScript,
-- npm,
 - webpack, 
 - OpenWeatherApi
 
@@ -33,10 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 ```
 - git clone https://github.com/prernapriyali/WeatherApp.git ;
-- cd weatherapp/
-- npm install
-- npm webpack --watch
-```
+
 
 ### Usage
 
